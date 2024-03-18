@@ -1,0 +1,3 @@
+z="
+";Uz='─▀─█';Wz='█▀██';Dz='█"';Mz='█▄─▄';Tz='███─';Nz='███▄';Vz='██─█';Zz='▄▄▀▄';Rz='─██▄';Xz='─██▀';Kz='▄─██';Pz='─███';ez='▀▄▄▄';Iz='▄▄▄▄';Ez=' "█▄';Lz='▀▄─█';cz='▄▀▀▄';Sz='▄▄▄─';Fz='─▄█▄';Oz='─▄██';Cz='████';Qz='─█▄▀';dz='▄▀▄▄';Bz=' "██';Hz='─▄█─';bz='▀▀▄▄';Yz=' "▀▄';Gz='─▀█▄';Az='echo';az='▄▄▀▀';fz='▀"';Jz='█─▄─';
+eval "$Az$Bz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$Cz$Dz$z$Az$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Dz$z$Az$Bz$Pz$Qz$Rz$Sz$Tz$Cz$Uz$Vz$Wz$Xz$Dz$z$Az$Yz$Zz$az$Zz$Iz$bz$cz$dz$ez$Zz$Iz$fz"
